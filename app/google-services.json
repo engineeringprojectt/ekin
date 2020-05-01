@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222737371259",
+    "firebase_url": "https://ekinproject-bf06d.firebaseio.com",
+    "project_id": "ekinproject-bf06d",
+    "storage_bucket": "ekinproject-bf06d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222737371259:android:e567718b8be5f26700d2de",
+        "android_client_info": {
+          "package_name": "com.ekinyavasca.engineeringproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222737371259-2k0pq5icf4u2aqru5gaf7mrtjpufr5f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj2pEPI8DLoklmTW3EwM8jo9EobD3zzrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222737371259-2k0pq5icf4u2aqru5gaf7mrtjpufr5f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
